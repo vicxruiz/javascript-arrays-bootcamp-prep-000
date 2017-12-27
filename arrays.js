@@ -14,3 +14,16 @@ function destructivelyAddElementToEndOfArray(chocolateBars, element) {
   chocolateBars.push(element)
   return chocolateBars
 }
+function accessElementInArray(chocolateBars, index) {
+  index = 0
+  chocolateBars[index]
+  return chocolateBars
+}
+
+
+
+
+
+
+
+
